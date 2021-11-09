@@ -4,7 +4,7 @@
    Komponenten: SEN-Pressure10 (mit 10kOhm Widerstand)
                 MEGA 2560
 
-   Stand: 01.11.2021
+   Stand: 09.11.2021
 
    Heiko Hillenhagen
 */
